@@ -1,0 +1,3 @@
+﻿C:\Users\IhabB\OneDrive\Bureau\Modern\jour1\TPAutomatisationSDLC\ModernSoftwareApp\ModernSoftwareApp\Calculator.cs
+C:\Users\IhabB\OneDrive\Bureau\Modern\jour1\TPAutomatisationSDLC\ModernSoftwareApp\ModernSoftwareApp\Program.cs
+C:\Users\IhabB\OneDrive\Bureau\Modern\jour1\TPAutomatisationSDLC\ModernSoftwareApp\ModernSoftwareApp\Dockerfile
